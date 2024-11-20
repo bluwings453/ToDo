@@ -65,7 +65,3 @@ Contributions are welcome! If you'd like to contribute to the project, follow th
 4.  Push your changes to your fork: `git push origin feature-name`.
 5.  Create a pull request to the `main` branch of the original repository.
 
-### Issues
-
-If you encounter any issues or have suggestions, please [open an issue](https://github.com/codescalper/mern-todo/issues) on the repository.
-
